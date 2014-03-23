@@ -8,6 +8,8 @@ var lessMiddleware = require('less-middleware');
 app.set('views', __dirname + '/views');
 app.set('view engine', 'jade');
 
+app.use(express.compress());
+
 app.use(lessMiddleware(__dirname + '/static', {
 	compress: true
 	, once: (process.env.APP_MODE === 'uberspace')
