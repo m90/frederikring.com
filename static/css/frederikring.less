@@ -19,6 +19,20 @@ h6{
     font-family: 'Denk One';
     text-align: center;
     font-size: 68px;
+    -webkit-transition: -webkit-transform .2s;
+    -moz-transition: -moz-transform .2s;
+    -o-transition: -o-transform .2s;
+    -ms-transition: -ms-transform .2s;
+    transition: transform .2s;
+    cursor: pointer;
+    &:hover{
+        @scale: 1.2;
+        -webkit-transform: skewY(-15deg) scale(@scale, @scale);
+        -moz-transform: skewY(-15deg) scale(@scale, @scale);
+        -o-transform: skewY(-15deg) scale(@scale, @scale);
+        -ms-transform: skewY(-15deg) scale(@scale, @scale);
+        transform: skewY(-15deg) scale(@scale, @scale);
+    }
 }
 
 ul{
