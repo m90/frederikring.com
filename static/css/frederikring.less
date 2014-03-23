@@ -7,6 +7,20 @@ body{
 	min-width: 320px;
 	margin: auto;
     overflow: hidden;
+    p{
+        max-width: 460px;
+        border-top: 1px solid white;
+        text-align: justify;
+        padding: 12px;
+        color: white;
+        margin: auto;
+        font-family: Helvetica, Arial, sans-serif;
+        a{
+            color: white;
+            font-weight: bold;
+            text-decoration: none;
+        }
+    }
 }
 
 h6{
@@ -27,7 +41,7 @@ h6{
     transition: transform .2s;
     cursor: pointer;
     &:hover{
-        @scale: 1.2;
+        @scale: 1.4;
         -webkit-transform: skewY(-15deg) scale(@scale, @scale);
         -moz-transform: skewY(-15deg) scale(@scale, @scale);
         -o-transform: skewY(-15deg) scale(@scale, @scale);
