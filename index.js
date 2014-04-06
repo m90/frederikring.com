@@ -17,6 +17,8 @@ app.use(lessMiddleware(__dirname + '/static', {
 
 app.use(express.static(__dirname + '/static'));
 
+app.use('/seeThru/img/', express.static(__dirname + '/static/seeThru'));
+
 var port = process.env.APP_MODE === 'uberspace' ? process.env.PORT : 1337;
 
 app.get('/:foo?', function(req, res){
