@@ -19,8 +19,13 @@ app.use(express.static(__dirname + '/static'));
 
 var port = process.env.APP_MODE === 'uberspace' ? process.env.PORT : 1337;
 
-app.get('/:foo?', function(req, res){
+app.get('/', function(req, res){
 	res.render('index');
+});
+
+app.use(function(req, res){
+	res.status(404);
+	res.send('Not found');
 });
 
 app.listen(port);
