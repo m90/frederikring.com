@@ -4,12 +4,16 @@
   "description": "ERROR: No README.md file found!",
   "main": "index.js",
   "scripts": {
-    "build": "jade ./index.jade --out ./docs"
+    "build": "jade ./index.jade --out ./docs",
+    "start": "http-server ./docs"
   },
   "repository": "",
   "author": "",
   "license": "BSD",
   "dependencies": {
     "jade": "~1.3.0"
+  },
+  "devDependencies": {
+    "http-server": "^0.9.0"
   }
 }
