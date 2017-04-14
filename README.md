@@ -3,6 +3,6 @@
 
 ### Build
 ```sh
-$ npm run build
+$ make
 ```
 

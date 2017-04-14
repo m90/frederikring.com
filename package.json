@@ -4,7 +4,6 @@
   "description": "ERROR: No README.md file found!",
   "main": "index.js",
   "scripts": {
-    "build": "jade ./index.jade --out ./docs",
     "start": "http-server ./docs"
   },
   "repository": "",
