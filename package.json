@@ -8,7 +8,7 @@
   },
   "repository": "",
   "author": "",
-  "license": "BSD",
+  "license": "UNLICENSED",
   "dependencies": {
     "jade": "~1.3.0"
   },
