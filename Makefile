@@ -1,7 +1,12 @@
-docs/CNAME:
-	echo "www.frederikring.com" > ./docs/CNAME
+all: build build/CNAME build/index.html
 
-docs/index.html: index.jade
-	./node_modules/.bin/jade index.jade --out ./docs
+build:
+	mkdir -p build
 
-all: docs/CNAME docs/index.html
+build/CNAME:
+	echo "www.frederikring.com" > ./build/CNAME
+
+build/index.html: index.jade
+	./node_modules/.bin/jade index.jade --out ./build
+
+.PHONY: build/*

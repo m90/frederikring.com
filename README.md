@@ -1,8 +1,7 @@
 # frederikring.com
 > personal homepage
 
-### Build
+### Production build
 ```sh
 $ make
 ```
-
