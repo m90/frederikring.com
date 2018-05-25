@@ -23,10 +23,10 @@ html(lang="en")
 				p I speak JavaScript and Golang and like working with Node.js, the Go standard library, Browserify, Bacon.js, RxJS, React, Redux, and express.js or the Gin framework. I sometimes publish tiny pieces of software on #[a.link.fw7(target="_blank" href="https://github.com/m90") GitHub] and on #[a.link.fw7(target="_blank" href="https://www.npmjs.com/~m90") npm]. When I really care about something, I might even #[a.link.fw7(target="_blank" href="http://blog.frederikring.com") blog about it].
 				p In one of my past lives I used to make #[a.link.fw7(target="_blank" href="http://films.frederikring.com") animated films].
 				p You can email me at #[a.link.fw7(href="mailto:frederik.ring@gmail.com") frederik.ring@gmail.com].
+		script(async src="https://www.googletagmanager.com/gtag/js?id=UA-365790-1")
 		script.
-			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-			})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-			ga('create', 'UA-365790-1', 'auto');
-			ga('send', 'pageview');
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+
+			gtag('config', 'UA-365790-1', {anonymize_ip: true});
