@@ -1,0 +1,171 @@
+{
+  "basics": {
+    "name": "Frederik Ring",
+    "label": "Web Developer",
+    "picture": "https://i.imgur.com/Ac8TLSj.jpg",
+    "email": "frederik.ring@gmail.com",
+    "phone": "+49 179 5421146",
+    "website": "https://www.frederikring.com",
+    "summary": "I'm a trained animator and film/video editor (film school, yes...), but someday decided I'd rather be writing code than attend yet another film festival. I will find getting things done right now much more tempting than talking about what might happen at some point in the future.I'm a firm believer in writing maintanable, testable and clean code, as I think it is the most important - and underrated - user facing feature. Users deserve software which is able to evolve quickly and without breakage.When I am writing software, transfering this idea is mostly about language. Programming is related to English literature as much as it is to Math. Which is a pretty awesome mix actually.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Berlin",
+      "countryCode": "Germany",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "m90",
+        "url": "https://github.com/m90"
+      },
+      {
+        "network": "Blog",
+        "username": "Blog",
+        "url": "https://blog.frederikring.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Ecosia",
+      "position": "Web Developer",
+      "website": "https://www.ecosia.org",
+      "startDate": "Nov 2016",
+      "endDate": "May 2018",
+      "summary": "With a focus on the frontend part of things I was working on all facets of a eco-centric search engine built around the Bing API.  I introduced a modern build pipeline with ES6, linting/unit testing and performance monitoring as well as unified the development setup using Docker.",
+      "highlights": []
+    },
+    {
+      "company": "tracdelight",
+      "position": "Head of Frontend Development",
+      "website": "https://www.tracdelight.com/",
+      "startDate": "Jan 2015",
+      "endDate": "Oct 2016",
+      "summary": "Following the acquisition and merge of my previous employer with a competitor I led the frontend team and oversaw the merge of the existing systems while guiding the creation of a next generation of tools. I also was in close contact with the backend team regarding the design of the next generation of the public API and internal data pipeline.  I mentored more junior developers on the team and acted as the main entry point for stakeholders regarding planning and prioritizing upcoming features.  The team succeeded in shipping a lightweight MVP that is now replacing the previous systems.",
+      "highlights": []
+    },
+    {
+      "company": "ShopLove",
+      "position": "Frontend Developer",
+      "website": "",
+      "startDate": "Oct 2013",
+      "endDate": "Dec 2014",
+      "summary": "I developed both consumer facing and B2B JavaScript-SPAs (using Knockout.js and Durandal) and traditional server-side applications (using ASP.NET MVC-5), as well as tools and widgets for bloggers and publishers for direct use on their websites by embedding a 3rd party script.  I completely revamped the whole JavaScript and CSS deployment and build pipeline, introducing sophisticated automated testing, minification, automated QA, et. al.",
+      "highlights": []
+    },
+    {
+      "company": "METERMADE",
+      "position": "Founder & Lead Developer",
+      "website": "https://www.metermade.de/",
+      "startDate": "Jan 2013",
+      "endDate": "Mar 2014",
+      "summary": "I did all development and visual design of a full stack JavaScript web shop for custom made furniture with sophisticated visual configuration tools selling custom made furniture on the internet.  This included the customer facing shop frontend as well as an administrative SPA used by staff and external vendors.",
+      "highlights": []
+    },
+    {
+      "company": "freelance",
+      "position": "Interactive Developer and Animator",
+      "website": "",
+      "startDate": "2006",
+      "endDate": "Sep 2013",
+      "summary": "I developed, animated and designed websites, webapps and phonegap-based iOS apps for numerous clients and agencies, mostly in the domain of children's TV and animation.  Among others, this resulted in several PhoneGap based apps successfully sold on the iTunes store.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "codebar Berlin",
+      "position": "Coach",
+      "website": "https://codebar.io/",
+      "startDate": "May 2018",
+      "endDate": "",
+      "summary": "Coaching people who want to improve their development skills.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Filmakademie Baden-Württemberg",
+      "area": "Animation",
+      "studyType": "Diploma",
+      "startDate": "2001",
+      "endDate": "2006",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Frontend Development",
+      "level": "",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "SASS / LESS / CSSNext",
+        "browserify"
+      ]
+    },
+    {
+      "name": "Web Applications",
+      "level": "",
+      "keywords": [
+        "React",
+        "express.js",
+        "Javascript",
+        "bacon.js",
+        "Reactive Functional Programming"
+      ]
+    },
+    {
+      "name": "Chatbots",
+      "level": "",
+      "keywords": [
+        "Dialogflow",
+        "rasa_core",
+        "Telegram",
+        "Facebook Messenger"
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "level": "",
+      "keywords": [
+        "Node.js",
+        "Golang",
+        "Ruby",
+        "MongoDB"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "",
+      "keywords": [
+        "AWS",
+        "Heroku",
+        "Chef",
+        "Docker"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "German",
+      "fluency": "native"
+    },
+    {
+      "language": "English",
+      "fluency": "fluent"
+    },
+    {
+      "language": "French",
+      "fluency": "basic"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
