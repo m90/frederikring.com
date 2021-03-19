@@ -1,12 +1,13 @@
-all: build build/CNAME build/index.html
+.PHONY: build
+build: index CNAME tachyons
+	@mkdir -p build
 
-build:
-	mkdir -p build
+.PHONY: CNAME
+CNAME:
+	@echo "www.frederikring.com" > ./build/CNAME
 
-build/CNAME:
-	echo "www.frederikring.com" > ./build/CNAME
+index: index.jade
+	@$$(npm bin)/jade index.jade --out ./build
 
-build/index.html: index.jade
-	./node_modules/.bin/jade index.jade --out ./build
-
-.PHONY: build/*
+tachyons: ./public/tachyons.min.css
+	@cp ./public/tachyons.min.css ./build
