@@ -1,13 +1,15 @@
 .PHONY: build
-build: index CNAME tachyons
+build: index CNAME public
 	@mkdir -p build
 
 .PHONY: CNAME
 CNAME:
 	@echo "www.frederikring.com" > ./build/CNAME
 
-index: index.jade
+.PHONY: index
+index:
 	@$$(npm bin)/jade index.jade --out ./build
 
-tachyons: ./public/tachyons.min.css
-	@cp ./public/tachyons.min.css ./build
+.PHONY: public
+public:
+	@cp -R ./public ./build
