@@ -1,7 +1,7 @@
 # frederikring.com
 > personal homepage
 
-### Production build
+### Run the local dev server
 ```sh
-$ make
+$ pelican -r -l
 ```
