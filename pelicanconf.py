@@ -11,16 +11,15 @@ DEFAULT_LANG = 'en'
 
 BUILD_DATE = datetime.now()
 
-# Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+# This gets overridden on build
 SITEURL = 'http://localhost:8080'
 
-# pagination
 DEFAULT_PAGINATION = False
 
 THEME = './theme'
@@ -38,7 +37,6 @@ TAG_SAVE_AS = ''
 TAGS_SAVE_AS = ''
 ARCHIVES_SAVE_AS = ''
 
-# SITEMAP_SAVE_AS = 'sitemap.xml'
 PAGE_SAVE_AS = '{slug}/index.html'
 
 STATIC_PATHS = []
@@ -56,5 +54,4 @@ MARKDOWN = {
 
 DECORATE_CONTENT = {
     'h2': ['f4'],
-    'hr': ['mb4'],
 }

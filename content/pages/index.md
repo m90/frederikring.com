@@ -22,9 +22,11 @@ Not sure what any of this means? That’s okay. I can also help you figure out w
 
 Great software is simple and built with care. That might mean deploying an off-the-shelf solution, crafting something custom to your needs, or simply being honest about what won’t work. My goal is to provide you with **software that is as unique as yourself**.
 
-As part of [offen.software](https://www.offen.software) I also regularly publish and maintain [Open Source software](https://github.com/offen), for example [docker-volume-backup](https://github.com/offen/docker-volume-backup) or write about topics like [software versioning](https://www.offen.dev/blog/untold-roads-versioning-early-stage-software/) or [technical aspects of data privacy](https://www.offen.dev/blog/privacy-cookies/).
-
 You can email me at [frederik.ring@posteo.de](frederik.ring@posteo.de).
+
+---
+
+As part of [offen.software](https://www.offen.software) I also regularly publish and maintain [Open Source software](https://github.com/offen), for example [docker-volume-backup](https://github.com/offen/docker-volume-backup) or write about topics like [software versioning](https://www.offen.dev/blog/untold-roads-versioning-early-stage-software/) or [technical aspects of data privacy](https://www.offen.dev/blog/privacy-cookies/).
 
 ---
 
