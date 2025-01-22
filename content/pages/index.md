@@ -10,7 +10,7 @@ Noone should waste time on guessing, so I write boring code and create exciting 
 
 ### What I can help you with
 
-Depending on your requirements, I am able to work with a wide range of technologies, including:
+I’ve worked across almost every area of web development. No matter if you're looking for a **static website**, a **webshop** or a complex **cloud solution**, I can help you make sense of it and deliver what's needed. Depending on your project's requirements, I am able to work with a wide range of technologies, including:
 
 - **Languages**:  JavaScript, Golang, Python, PHP
 - **Frameworks & Languages**: Node.js, Go standard library, Django, Flask, Express.js, Laravel
@@ -20,7 +20,7 @@ Not sure what any of this means? That’s okay. I can also help you figure out w
 
 ### Why work with me?
 
-I believe great software is simple and built with care. That might mean deploying an off-the-shelf solution, crafting something custom to your needs, or simply being honest about what won’t work. My goal is to provide you with software that is just as unique as yourself.
+Great software is simple and built with care. That might mean deploying an off-the-shelf solution, crafting something custom to your needs, or simply being honest about what won’t work. My goal is to provide you with **software that is as unique as yourself**.
 
 As part of [offen.software](https://www.offen.software) I also regularly publish and maintain [Open Source software](https://github.com/offen), for example [docker-volume-backup](https://github.com/offen/docker-volume-backup) or write about topics like [software versioning](https://www.offen.dev/blog/untold-roads-versioning-early-stage-software/) or [technical aspects of data privacy](https://www.offen.dev/blog/privacy-cookies/).
 
