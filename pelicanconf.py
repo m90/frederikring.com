@@ -1,4 +1,5 @@
 from datetime import datetime
+from pelican_decorate_content import decorate_content
 
 # If your site is available via HTTPS, make sure SITEURL begins with https://
 RELATIVE_URLS = False
@@ -42,7 +43,7 @@ PAGE_SAVE_AS = '{slug}/index.html'
 
 STATIC_PATHS = []
 PLUGIN_PATHS = ['./plugins']
-PLUGINS = ['webassets']
+PLUGINS = ['webassets', decorate_content]
 
 MARKDOWN = {
     'extension_configs': {
@@ -51,4 +52,9 @@ MARKDOWN = {
         'markdown.extensions.fenced_code': {},
     },
     'output_format': 'html5',
+}
+
+DECORATE_CONTENT = {
+    'h2': ['f4'],
+    'hr': ['mb4'],
 }
