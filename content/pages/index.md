@@ -1,4 +1,5 @@
 title: Frederik Ring - Freelance Software Engineer - Berlin
+description: I'm a freelance software engineer based in Berlin. I like writing boring code and creating exciting documentation. This website is where I talk business.
 date: 2025-01-22 16:20
 template: page
 save_as: index.html
