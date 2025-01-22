@@ -4,7 +4,7 @@ date: 2025-01-22 16:20
 template: page
 save_as: index.html
 
-I'm a freelance software engineer of more than 15 years of professional experience, based in Berlin. I like writing boring code and creating exciting documentation. [Get in touch](mailto:frederik.ring@posteo.de) if this is what your team or company is looking for right now.
+I'm a **freelance software engineer with more than 15 years of professional experience**, based in Berlin. I like writing boring code and creating exciting documentation. [Get in touch](mailto:frederik.ring@posteo.de) if this is what your team or company is looking for right now.
 
 Depending on your requirements, I am able to work with a wide range of technologies, including:
 
