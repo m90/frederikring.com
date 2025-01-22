@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ title }}</title>
+  <meta name="description" content="{{ description }}">
+  <meta name="viewport" content="width=device-width">
+  {% assets filters="cssmin", output="css/style.min.css", "css/tachyons.min.css", "css/fonts.css", "css/custom.css" %}
+    <link rel="stylesheet" href="/{{ ASSET_URL }}">
+  {% endassets %}
+  <link rel="stylesheet" type="text/css" href="/theme/css/tachyons.min.css">
+  <link rel="stylesheet" type="text/css" href="/theme/css/fonts.css">
+  <link rel="canonical" href="https://www.frederikring.com">
+</head>
+<body>
+  <div class="mw100 pa2-ns pa3-m pa4">
+    <h1 class="ma0 f2f2-m f1-ns">Frederik Ring</h1>
+    <span class="db f-headline-ns f2 f1-m ma0">AWSM INTRNT</span>
+    <div class="mw7">
+      {% block content %}{% endblock %}
+    </div>
+  </div>
+</body>
+</html>

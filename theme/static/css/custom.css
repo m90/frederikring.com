@@ -1,0 +1,14 @@
+body {
+  font-family: 'Karla', Helvetica, Arial, sans-serif;
+  color: #001B44;
+  background-color: #F6FFFE;
+}
+h1, span {
+  letter-spacing: -0.03em;
+}
+p, ul {
+  font-family: 'Source Serif Pro', serif;
+}
+a:link, a:visited, a:hover, a:active {
+  color: inherit;
+}

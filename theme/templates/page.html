@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+
+{% set title = page.title %}
+{% set description = page.description %}
+
+{% block content %}
+  <main class="mw7">
+    {{ page.content }}
+  </main>
+{% endblock %}
