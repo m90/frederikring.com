@@ -4,7 +4,7 @@ date: 2025-01-22 16:20
 save_as: index.html
 
 Noone should waste time on guessing, so I write boring code and create exciting documentation for your projects.
-[Get in touch](mailto:frederik.ring@posteo.de) if this sounds like what you or your organization need right now.
+[Get in touch](mailto:frederik.ring@posteo.de) if this sounds like what you or your organization need right now, or check out my [work experience](/experience/).
 
 ---
 
@@ -28,7 +28,7 @@ Great software is simple and built with care.
 That might mean deploying an off-the-shelf solution, crafting something custom to your needs, or simply being honest about what won’t work.
 My goal is to provide you with **software that is as unique as yourself**.
 
-Read up on the details of my [work experience](./experience/) here.
+Read up on the details of my [work experience](/experience/) here.
 You can email me at [frederik.ring@posteo.de](frederik.ring@posteo.de).
 
 ---
@@ -39,4 +39,4 @@ As part of [offen.software](https://www.offen.software) I also regularly publish
 
 ---
 
-In one of my past lives I used to make [animated films](http://films.frederikring.com).
+In one of my past lives I used to make [animated films](https://films.frederikring.com).
