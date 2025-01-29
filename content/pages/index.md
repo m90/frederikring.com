@@ -8,6 +8,8 @@ I'm a **freelance software engineer with more than 15 years of professional expe
 Noone should waste time on guessing, so I write boring code and create exciting documentation for your projects.
 [Get in touch](mailto:frederik.ring@posteo.de) if this sounds like what you or your organization need right now.
 
+---
+
 ## What I can help you with
 
 I’ve worked across almost every area of web development.
@@ -32,6 +34,8 @@ Read up on the details of my [work experience](./experience/) here.
 You can email me at [frederik.ring@posteo.de](frederik.ring@posteo.de).
 
 ---
+
+## offen.software
 
 As part of [offen.software](https://www.offen.software) I also regularly publish and maintain [Open Source software](https://github.com/offen), for example [docker-volume-backup](https://github.com/offen/docker-volume-backup).
 
