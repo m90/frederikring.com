@@ -3,8 +3,6 @@ description: I'm a freelance software engineer based in Berlin. I write boring c
 date: 2025-01-22 16:20
 save_as: index.html
 
-I'm a **freelance software engineer with more than 15 years of professional experience**, based in Berlin.
-
 Noone should waste time on guessing, so I write boring code and create exciting documentation for your projects.
 [Get in touch](mailto:frederik.ring@posteo.de) if this sounds like what you or your organization need right now.
 

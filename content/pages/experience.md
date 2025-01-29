@@ -3,8 +3,6 @@ description: I'm a freelance software engineer based in Berlin. This is a summar
 date: 2025-01-29 11:20
 slug: experience
 
-I'm a **freelance software engineer with more than 15 years of professional experience**, based in Berlin.
-
 This page tries to sum up what I have been up to by now.
 Head to the [homepage](/) in case you're interested in working with me.
 
@@ -78,6 +76,12 @@ As an active maintainer, I contribute to the ongoing development and improvement
 
 ## Freelance
 
+_Jan 2025 → now_
+### Freelance software engineer
+
+I use my generalist skillset to provide guidance and support to clients throughout all phasesſ of their software projects.
+Recent work has involved migrating legacy self-hosted software to modern, scalable, and sustainable infrastructure solutions.
+
 _Jan 2013 → Mar 2014 (1 year, 2 months)_  
 ### METERMADE
 
@@ -85,7 +89,7 @@ As one of the founders of METERMADE, I developed, designed, and managed a web sh
 The platform featured advanced configuration tools that allowed users to tailor furniture designs to their exact specifications.
 In addition to building and maintaining the technical infrastructure, I handled day-to-day operations, ensuring a seamless user experience and reliable e-commerce functionality for customers.
 
-_2006 → Sep 2012 (6 years, 9 months)_  
+_Mar 2006 → Sep 2012 (6 years, 6 months)_  
 ### Interactive Developer and Animator
 
 As a freelance animator and developer, I contributed to a variety of projects in the fields of children’s television and education, often bridging the gap between creative animation and technical development.
