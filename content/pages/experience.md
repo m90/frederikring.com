@@ -4,7 +4,8 @@ date: 2025-01-29 11:20
 slug: experience
 
 I'm a **freelance software engineer with more than 15 years of professional experience**, based in Berlin.
-This is what I've been up to by now.
+
+This page tries to sum up what I have been up to by now.
 Head to the [homepage](/) in case you're interested in working with me.
 
 ---
