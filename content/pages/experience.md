@@ -79,7 +79,7 @@ As an active maintainer, I contribute to the ongoing development and improvement
 _Jan 2025 → now_
 ### Freelance software engineer
 
-I use my generalist skillset to provide guidance and support to clients throughout all phasesſ of their software projects.
+I use my generalist skillset to provide guidance and support to clients throughout all phases of their software projects.
 Recent work has involved migrating legacy self-hosted software to modern, scalable, and sustainable infrastructure solutions.
 
 _Jan 2013 → Mar 2014 (1 year, 2 months)_  
