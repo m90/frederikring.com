@@ -17,7 +17,7 @@ I worked on Wikibase Cloud, a SaaS offering that allows users to run their own W
 
 ### Senior Software Engineer at Field Intelligence
 _Oct 2018 → Dec 2022 (4 years, 2 months)_  
-I managed the infrastructure and contributed to platform development for an offline-first application used for supply chain management for medical goods in rural Africa.
+I managed the infrastructure and contributed to platform development for an offline-first application used for supply chain management for medical goods in Nigeria and Kenya.
 
 ### Web Developer at Ecosia
 _Nov 2016 → May 2018 (1 year, 7 months)_  
@@ -36,16 +36,19 @@ I contributed to the frontend of a monolithic asp.net application.
 ## Open Source
 
 ### Offen - Co-Author
-<https://github.com/offen/offen>  
-Offen is a fair and open web analytics software. Funded by the NGI initiative / NLNet.
+
+Offen is a fair and open web analytics software. Funded by the NGI initiative / NLNet.  
+<https://github.com/offen/offen>
 
 ### docker-volume-backup - Author
-<https://github.com/offen/docker-volume-backup>  
-A Docker image for backing up data.
+
+A Docker image for backing up data.  
+<https://github.com/offen/docker-volume-backup>
 
 ### mochify.js - Maintainer
-<https://github.com/mantoni/mochify.js>  
-Mochify lets you run unit tests in headless browsers.
+
+Mochify lets you run unit tests in headless browsers.  
+<https://github.com/mantoni/mochify.js>
 
 ---
 
@@ -56,7 +59,7 @@ _Jan 2013 → Mar 2014 (1 year, 2 months)_
 I developed, designed and ran a web shop for customizable furniture.
 
 ### Interactive Developer and Animator
-_2006 → Sep 2012 (6 years, 9 months)_ 
+_2006 → Sep 2012 (6 years, 9 months)_  
 I contributed both code and animation to various projects in the domain of children’s TV and education.
 
 ---
