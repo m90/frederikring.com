@@ -1,7 +1,6 @@
 from datetime import datetime
 from pelican_decorate_content import decorate_content
 
-# If your site is available via HTTPS, make sure SITEURL begins with https://
 RELATIVE_URLS = False
 
 AUTHOR = 'Frederik Ring'
@@ -17,6 +16,7 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+# If your site is available via HTTPS, make sure SITEURL begins with https://
 # This gets overridden on build
 SITEURL = 'http://localhost:8080'
 
