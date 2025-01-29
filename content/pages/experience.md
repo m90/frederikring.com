@@ -4,7 +4,7 @@ date: 2025-01-29 11:20
 slug: experience
 
 This page tries to sum up what I have been up to by now.
-Head to the [homepage](/) in case you're interested in working with me.
+[Get in touch](mailto:frederik.ring@posteo.de) if you're interested in working with me, or check out [the homepage](/) for more information.
 
 ---
 
