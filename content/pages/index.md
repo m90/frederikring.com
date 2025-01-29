@@ -1,7 +1,6 @@
 title: Frederik Ring - Freelance Software Engineer - Berlin
 description: I'm a freelance software engineer based in Berlin. I write boring code and create exciting documentation. This website is where I talk business.
 date: 2025-01-22 16:20
-template: page
 save_as: index.html
 
 I'm a **freelance software engineer with more than 15 years of professional experience**, based in Berlin.
@@ -29,11 +28,12 @@ Great software is simple and built with care.
 That might mean deploying an off-the-shelf solution, crafting something custom to your needs, or simply being honest about what won’t work.
 My goal is to provide you with **software that is as unique as yourself**.
 
+Read up on the details of my [work experience](./experience/) here.
 You can email me at [frederik.ring@posteo.de](frederik.ring@posteo.de).
 
 ---
 
-As part of [offen.software](https://www.offen.software) I also regularly publish and maintain [Open Source software](https://github.com/offen), for example [docker-volume-backup](https://github.com/offen/docker-volume-backup) or write about topics like [software versioning](https://www.offen.dev/blog/untold-roads-versioning-early-stage-software/) or [technical aspects of data privacy](https://www.offen.dev/blog/privacy-cookies/).
+As part of [offen.software](https://www.offen.software) I also regularly publish and maintain [Open Source software](https://github.com/offen), for example [docker-volume-backup](https://github.com/offen/docker-volume-backup).
 
 ---
 

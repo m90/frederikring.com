@@ -54,4 +54,5 @@ MARKDOWN = {
 
 DECORATE_CONTENT = {
     'h2': ['f4'],
+    'h3': ['mb0'],
 }
