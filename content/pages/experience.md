@@ -7,6 +7,8 @@ I'm a **freelance software engineer with more than 15 years of professional expe
 This is what I've been up to by now.
 Head to the [homepage](/) in case you're interested in working with me.
 
+---
+
 ## Employment
 
 ### Senior Software Engineer at Wikimedia
