@@ -8,8 +8,6 @@ PATH = 'content'
 TIMEZONE = 'Europe/Berlin'
 DEFAULT_LANG = 'en'
 
-BUILD_DATE = datetime.now()
-
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
@@ -19,8 +17,6 @@ AUTHOR_FEED_RSS = None
 # If your site is available via HTTPS, make sure SITEURL begins with https://
 # This gets overridden on build
 SITEURL = 'http://localhost:8080'
-
-DEFAULT_PAGINATION = False
 
 THEME = './theme'
 
@@ -54,5 +50,6 @@ MARKDOWN = {
 
 DECORATE_CONTENT = {
     'h2': ['f4'],
-    'h3': ['mb0', 'f6'],
+    'h3': ['mb0', 'f5', 'dib'],
+    'h3 > em': ['f6', 'normal'],
 }
