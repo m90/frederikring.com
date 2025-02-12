@@ -10,7 +10,7 @@ This page tries to sum up what I have been up to by now.
 
 ## Employment
 
-### Senior Software Engineer at Wikimedia _Jan 2023 → August 2024 (1 year, 8 months)_
+### Senior Software Engineer at Wikimedia _Jan 2023 → Aug 2024 (1 year, 8 months)_
 
 As a Senior Software Engineer at Wikimedia, I contributed to the development of Wikibase Cloud, a SaaS platform designed to empower users to create and manage their own customized Wikibase instances.
 My work involved designing, implementing, and optimizing features to ensure scalability, reliability, and ease of use for diverse communities, aligning with Wikimedia's commitment to open knowledge and collaborative data-sharing initiatives.
