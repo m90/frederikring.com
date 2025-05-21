@@ -72,7 +72,7 @@ As an active maintainer, I contribute to the ongoing development and improvement
 ### Freelance software engineer _Jan 2025 → now_
 
 I use my generalist skillset to provide guidance and support to clients throughout all phases of their software projects.
-Recent work has involved migrating legacy self-hosted software to modern, scalable, and sustainable infrastructure solutions.
+Recent work has involved migrating legacy self-hosted editorial software to a modern setup, creating static websites and building a self-service 3D compute job runner based on Kubernetes.
 
 ### METERMADE _Jan 2013 → Mar 2014 (1 year, 2 months)_
 

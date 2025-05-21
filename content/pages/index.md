@@ -11,12 +11,13 @@ Noone should waste time on guessing, so I write boring code and create exciting 
 ## What I can help you with
 
 I’ve worked across almost every area of web development.
-No matter if you're looking for a **static website**, a **webapp** based on common frameworks or a complex and custom **cloud solution**, I can help you make sense of it and deliver what's needed.
-Depending on your project's requirements, I am able to work with a wide range of technologies, including:
+No matter if you're looking for a **static website**, a **webapp** based on common frameworks or a complex and custom **cloud solution**, I can help you make sense of your requirements and deliver what's needed.
+Depending on your project, I am able to work with a wide range of technologies, including:
 
 - **Languages**:  JavaScript, Golang, Python, PHP
 - **Frameworks & Languages**: Node.js, Go standard library, Django, Flask, Express.js, Laravel
-- **Cloud & infrastructure**: AWS, Kubernetes, Terraform, Serverless, Docker Swarm
+- **Databases**: PostgreSQL, SQLite, MongoDB, CouchDB
+- **Cloud & infrastructure**: AWS, Hetzner Cloud, Kubernetes, Terraform, Serverless, Docker Swarm
 
 Not sure what any of this means?
 That’s okay.
