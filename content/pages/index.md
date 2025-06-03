@@ -3,7 +3,7 @@ description: I'm a freelance software engineer based in Berlin. I write boring c
 date: 2025-01-22 16:20
 save_as: index.html
 
-I help individuals and small teams move fast by __taking ownership of ambiguous, complex, sometimes chaotic projects__.
+I help individuals and small teams move fast by __taking ownership of ambiguous, complex or unpredictable projects__.
 [Get in touch](mailto:frederik.ring@posteo.de) if this sounds like what you or your organization need right now, or check out my [work experience](/experience/).
 
 ---
@@ -26,7 +26,7 @@ I can also help you figure out which technologies best fit your needs.
 ## Why work with me?
 
 Great software is simple and built with care.
-That might mean deploying an off-the-shelf solution, crafting something custom to your needs, or simply being honest about what won’t work.
+That might mean crafting something custom to your needs, customizing an off-the-shelf solution, or simply being honest about what won’t work.
 My goal is to provide you with **software that is as unique as yourself**.
 
 Read up on the details of my [work experience](/experience/) here.
