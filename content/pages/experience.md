@@ -8,6 +8,32 @@ This page tries to sum up what I have been up to by now.
 
 ---
 
+## Freelance work
+
+### Freelance software engineer _Jan 2025 → now_
+
+I use my generalist skillset to provide guidance and support to clients throughout all phases of their software projects.
+Recent work has involved unifying the software stacks for startups, migrating legacy self-hosted editorial software to a modern setup, creating static websites and building a self-service 3D compute job runner based on Kubernetes.
+Clients include:
+
+- Billiam, Minneapolis, USA
+- Red Rabbit Animation, Shanghai, China
+- REITER Architektur GmbH, Mannheim, Germany
+
+### METERMADE _Jan 2013 → Mar 2014 (1 year, 2 months)_
+
+As one of the founders of METERMADE, I developed, designed, and managed a web shop specializing in customizable furniture.
+The platform featured advanced configuration tools that allowed users to tailor furniture designs to their exact specifications.
+In addition to building and maintaining the technical infrastructure, I handled day-to-day operations, ensuring a seamless user experience and reliable e-commerce functionality for customers.
+
+### Interactive Developer and Animator _Mar 2006 → Sep 2012 (6 years, 6 months)_
+
+As a freelance animator and developer, I contributed to a variety of projects in the fields of children’s television and education, often bridging the gap between creative animation and technical development.
+These hybrid roles required me to write code for interactive tools and applications while also producing high-quality animations to support storytelling and engagement.
+My work focused on blending artistry with technology to deliver compelling and educational content for young audiences.
+
+---
+
 ## Employment
 
 ### Senior Software Engineer at Wikimedia _Jan 2023 → Aug 2024 (1 year, 8 months)_
@@ -64,27 +90,6 @@ mochify.js is a test runner that enables developers to execute unit tests in hea
 As an active maintainer, I contribute to the ongoing development and improvement of the project by collaborating with the wider maintainer community, addressing issues, and enhancing the tool to ensure it remains reliable and developer-friendly.
 
 <https://github.com/mantoni/mochify.js>
-
----
-
-## Freelance
-
-### Freelance software engineer _Jan 2025 → now_
-
-I use my generalist skillset to provide guidance and support to clients throughout all phases of their software projects.
-Recent work has involved migrating legacy self-hosted editorial software to a modern setup, creating static websites and building a self-service 3D compute job runner based on Kubernetes.
-
-### METERMADE _Jan 2013 → Mar 2014 (1 year, 2 months)_
-
-As one of the founders of METERMADE, I developed, designed, and managed a web shop specializing in customizable furniture.
-The platform featured advanced configuration tools that allowed users to tailor furniture designs to their exact specifications.
-In addition to building and maintaining the technical infrastructure, I handled day-to-day operations, ensuring a seamless user experience and reliable e-commerce functionality for customers.
-
-### Interactive Developer and Animator _Mar 2006 → Sep 2012 (6 years, 6 months)_
-
-As a freelance animator and developer, I contributed to a variety of projects in the fields of children’s television and education, often bridging the gap between creative animation and technical development.
-These hybrid roles required me to write code for interactive tools and applications while also producing high-quality animations to support storytelling and engagement.
-My work focused on blending artistry with technology to deliver compelling and educational content for young audiences.
 
 ---
 
